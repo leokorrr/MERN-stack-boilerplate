@@ -1,2 +1,2 @@
 # MERN-stack-boilerplate
-#M#ongodb #E#xpress #R#eact #N#ode boilerplate
+<b>M</b>ongodb <b>E</b>xpress <b>R</b>eact <b>N</b>ode boilerplate
